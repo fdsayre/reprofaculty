@@ -1,21 +1,29 @@
 # Muscular-cellular Reproducibility Seminar
+How I Learned to Stop Worrying and Love the Reproducibility Crisis
+
 ---
-TEST
----
-# How I Learned to Stop Worrying and Love the Reproducibility Crisis
----
+
 ## Why Are We (Librarians) talking to you about this?
 - We are not going to discuss things outside our disciplinary expertise (e.g. statistical analysis, research design) 
 ## Reproducibility: Definitions and History of a Crisis
+
 ---
+
 **Definitions**
 Reproducibility:
 Replicability:
 Sub-types of reproducibility: 
+
+---
+
 **History**
+
 ---
+
 Landmark articles
+
 ---
+
 Psychology Reproducability Project
 Cancer Biology Reproducibility Project
 Why Most Published Research is Wrong
