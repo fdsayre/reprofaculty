@@ -1,19 +1,25 @@
 # Muscular-cellular Reproducibility Seminar
 
+---
+
 # How I Learned to Stop Worrying and Love the Reproducibility Crisis
+
+---
 
 
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_15C89E60BC564DD59B57BF16FE92FF55D024EAF0DD331FF15CD8BE438FD498A3_1508102317115_Screenshot+2017-10-15+16.17.59.png)
 
-
+---
 
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_15C89E60BC564DD59B57BF16FE92FF55D024EAF0DD331FF15CD8BE438FD498A3_1508102402099_webinar.jpg)
 
-
+---
 
 ## Why Are We (Librarians) talking to you about this?
 - We are not going to discuss things outside our disciplinary expertise (e.g. statistical analysis, research design) 
 ## Reproducibility: Definitions and History of a Crisis
+
+---
 
 **Definitions**
 
