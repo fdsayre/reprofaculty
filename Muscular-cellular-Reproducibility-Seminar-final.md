@@ -1,11 +1,10 @@
 # Muscular-cellular Reproducibility Seminar
 
-^\n\n\n
+---
 
-# How I Learned to Stop Worrying and Love the Reproducibility Crisis
+# OR: How I Learned to Stop Worrying and Love the Reproducibility Crisis
 
-^\n\n\n
-
+---
 
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_15C89E60BC564DD59B57BF16FE92FF55D024EAF0DD331FF15CD8BE438FD498A3_1508102317115_Screenshot+2017-10-15+16.17.59.png)
 
